@@ -539,6 +539,10 @@ html {
     font-weight: 700;
 }
 
+#services__mobile {
+    display: none;
+}
+
 #left-btn {
     border: 8px solid #1e1d24;
     border-radius: 40px;
@@ -753,6 +757,10 @@ html {
 }
 
 /* mobile */
+#process__mobile {
+    display: none;
+}
+
 .process__wrapper-mobile {
     display: flex;
     justify-content: center;
