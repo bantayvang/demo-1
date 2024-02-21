@@ -209,6 +209,10 @@
     }
 
     /* service */
+    #services__mobile {
+        display: block;
+    }
+    
     #services {
         padding-top: 10px;
     }
@@ -320,6 +324,7 @@
     }
 
     .advertise__text span {
+        text-align: center;
         padding: 0 !important;
     }
 
@@ -348,6 +353,10 @@
     }
 
     /* process */
+    #process__mobile {
+        display: block;
+    }
+    
     #process {
         padding-top: 35px;
     }
